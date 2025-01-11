@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "cardio": [
+        {
+          "case": "A 67-year-old male presents with exertional dyspnea and chest tightness that has been progressively worsening over the past three months. His symptoms typically occur after walking two blocks and resolve with rest. ECG shows ST-segment depression in leads V4-V6 during exercise stress testing, suggesting significant coronary artery disease. The patient's lipid panel reveals elevated LDL cholesterol and triglycerides, indicating the need for aggressive medical management."
+        },
+        {
+          "case": "A 54-year-old female with a history of hypertension presents to the emergency department with sudden onset of palpitations, lightheadedness, and anxiety. Cardiac monitoring reveals atrial fibrillation with rapid ventricular response at 150 beats per minute. The patient's blood pressure is elevated at 168/95 mmHg. Echocardiogram shows mild left atrial enlargement but preserved ejection fraction."
+        },
+        {
+          "case": "An 82-year-old male with a history of heart failure presents with increasing bilateral leg edema, orthopnea, and paroxysmal nocturnal dyspnea. Physical examination reveals bilateral crackles in the lung bases and jugular venous distention. BNP levels are significantly elevated at 1,200 pg/mL. The patient's current medications include furosemide and lisinopril."
+        },
+        {
+          "case": "A 45-year-old female athlete presents with syncope during a marathon. Her resting ECG shows voltage criteria for left ventricular hypertrophy and T-wave inversions in the lateral leads. Subsequent cardiac MRI reveals asymmetric septal hypertrophy consistent with hypertrophic cardiomyopathy, raising concerns about continued participation in competitive sports."
+        },
+        {
+          "case": "A 72-year-old male with known coronary artery disease presents with acute onset of severe chest pain, diaphoresis, and shortness of breath. ECG shows ST-segment elevation in leads II, III, and aVF, consistent with an inferior wall STEMI. Cardiac catheterization reveals 100% occlusion of the right coronary artery requiring immediate intervention."
+        },
+        {
+          "case": "A 59-year-old female presents with progressive fatigue, peripheral edema, and decreased exercise tolerance. Echocardiogram reveals severe aortic stenosis with a valve area of 0.8 cm² and mean gradient of 45 mmHg. The patient has developed left ventricular hypertrophy as a compensatory mechanism."
+        },
+        {
+          "case": "A 63-year-old male with diabetes presents with episodic chest discomfort and dyspnea. Nuclear stress test reveals reversible perfusion defects in the anterior and lateral walls, suggesting significant multi-vessel coronary artery disease. Coronary calcium scoring shows extensive calcification, supporting the need for further intervention."
+        }
+      ]
+    },
+    {
+      "ortho": [
+        {
+          "case": "A 28-year-old male athlete presents with acute knee pain and swelling following a pivoting injury during a soccer match. Physical examination reveals a positive Lachman test and anterior drawer sign. MRI confirms a complete tear of the anterior cruciate ligament with associated bone contusions of the lateral femoral condyle and posterior tibial plateau."
+        },
+        {
+          "case": "A 75-year-old female presents with progressive right hip pain and difficulty walking. X-rays show severe osteoarthritis with joint space narrowing, subchondral sclerosis, and osteophyte formation. The patient reports that conservative management with NSAIDs and physical therapy has provided minimal relief."
+        },
+        {
+          "case": "A 45-year-old construction worker presents with chronic low back pain radiating down the right leg. MRI reveals a large L5-S1 disc herniation with nerve root compression. The patient reports numbness and tingling in the right foot, with weakness in plantar flexion suggesting S1 radiculopathy."
+        },
+        {
+          "case": "A 16-year-old female gymnast presents with worsening lower back pain. X-rays reveal a pars interarticularis defect at L5, consistent with spondylolysis. The patient reports that pain increases with back extension and impact activities, affecting her ability to train."
+        },
+        {
+          "case": "A 52-year-old male presents with shoulder pain and limited range of motion. MRI shows a full-thickness tear of the supraspinatus tendon with moderate retraction. The patient reports difficulty with overhead activities and night pain, significantly impacting his daily activities."
+        },
+        {
+          "case": "A 68-year-old female presents with bilateral knee pain and morning stiffness. X-rays show tricompartmental osteoarthritis with varus deformity. The patient has tried various conservative treatments including corticosteroid injections with diminishing relief."
+        },
+        {
+          "case": "A 35-year-old rock climber presents with chronic wrist pain and decreased grip strength. MRI reveals scapholunate ligament tear with widening of the scapholunate interval on stress views. The patient reports difficulty with weight-bearing through the wrist and decreased ability to perform pull-ups."
+        }
+      ]
+    },
+    {
+      "neuro": [
+        {
+          "case": "A 42-year-old female presents with recurrent episodes of visual disturbances followed by unilateral throbbing headaches. She describes seeing zigzag lines and bright spots lasting 20-30 minutes before the onset of severe headache with associated nausea and photophobia, consistent with migraine with aura."
+        },
+        {
+          "case": "A 65-year-old male presents with progressive tremor affecting both hands, worse with intentional movement. Neurological examination reveals intention tremor, dysmetria on finger-to-nose testing, and wide-based gait, suggesting cerebellar dysfunction. MRI shows cerebellar atrophy consistent with spinocerebellar ataxia."
+        },
+        {
+          "case": "A 55-year-old female presents with acute onset of right-sided weakness and difficulty speaking. CT scan reveals a hypodense area in the left middle cerebral artery territory consistent with an acute ischemic stroke. The patient arrives within the therapeutic window for thrombolytic therapy."
+        },
+        {
+          "case": "A 30-year-old female presents with recurring episodes of double vision, muscle weakness, and fatigue that worsen throughout the day. Acetylcholine receptor antibodies are positive, and repetitive nerve stimulation shows decremental response, confirming the diagnosis of myasthenia gravis."
+        },
+        {
+          "case": "A 48-year-old male presents with progressive memory loss, personality changes, and difficulty with executive functioning. MRI shows frontotemporal atrophy, and genetic testing reveals a mutation associated with frontotemporal dementia. The patient's family reports significant behavioral changes over the past year."
+        },
+        {
+          "case": "A 25-year-old female presents with recurrent episodes of numbness and tingling in various parts of her body, accompanied by visual disturbances. MRI reveals multiple periventricular white matter lesions consistent with multiple sclerosis. CSF analysis shows oligoclonal bands."
+        },
+        {
+          "case": "A 70-year-old male presents with progressive asymmetric tremor and rigidity. Neurological examination reveals resting tremor, bradykinesia, and postural instability. DaTscan shows decreased dopamine transporter uptake consistent with Parkinson's disease."
+        }
+      ]
+    },
+    {
+      "gastro": [
+        {
+          "case": "A 35-year-old female presents with chronic diarrhea, abdominal pain, and weight loss. Colonoscopy reveals skip lesions with cobblestone appearance in the terminal ileum and ascending colon, consistent with Crohn's disease. Tissue biopsy shows non-caseating granulomas."
+        },
+        {
+          "case": "A 55-year-old male presents with progressive difficulty swallowing both solids and liquids. Barium swallow shows a dilated esophagus with bird's beak appearance. Manometry confirms absent peristalsis and incomplete lower esophageal sphincter relaxation, consistent with achalasia."
+        },
+        {
+          "case": "A 45-year-old female presents with right upper quadrant pain, nausea, and fatty food intolerance. Ultrasound reveals multiple gallstones with gallbladder wall thickening. HIDA scan shows decreased gallbladder ejection fraction, confirming chronic cholecystitis."
+        },
+        {
+          "case": "A 60-year-old male presents with progressive jaundice, dark urine, and clay-colored stools. CT shows a pancreatic head mass causing biliary obstruction. CA 19-9 is elevated, and subsequent biopsy confirms pancreatic adenocarcinoma."
+        },
+        {
+          "case": "A 28-year-old male presents with chronic bloody diarrhea, urgency, and tenesmus. Colonoscopy reveals continuous inflammation with friability and pseudopolyps extending from the rectum to the splenic flexure, consistent with ulcerative colitis."
+        },
+        {
+          "case": "A 50-year-old female presents with epigastric pain, early satiety, and unintentional weight loss. Upper endoscopy reveals a large gastric ulcer with irregular borders. Biopsy confirms gastric adenocarcinoma, and H. pylori testing is positive."
+        },
+        {
+          "case": "A 65-year-old male presents with difficulty swallowing solids, progressive weight loss, and regurgitation of undigested food. Barium swallow and endoscopy reveal a mass in the lower third of the esophagus, with biopsy confirming squamous cell carcinoma."
+        }
+      ]
+    }
+  ]
+}

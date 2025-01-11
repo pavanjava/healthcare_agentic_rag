@@ -1,0 +1,18 @@
+# Required packages for the crewai
+crewai
+crewai-tools
+
+# environment variables and configuration management
+python-dotenv
+
+# vector similarity search
+qdrant-client
+
+# embedding generation
+fastembed
+
+# observability
+openlit
+
+# ui interface dependency
+streamlit
